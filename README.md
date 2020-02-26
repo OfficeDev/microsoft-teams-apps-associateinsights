@@ -1,53 +1,51 @@
----
+﻿---
 page_type: sample
-languages:
-- csharp
 products:
-- dotnet
-description: "Add 150 character max description"
-urlFragment: "update-this-to-unique-url-stub"
+- Power Apps
+description: Associate Insights is a Power App template designed to capture customer feedback and sentiment through First Line Workers in retail stores through the one on one direct connection with the customers.
+urlFragment: microsoft-teams-apps-associateinsights
 ---
 
-# Official Microsoft Sample
+**Associate Insights App Template**
 
-<!-- 
-Guidelines on README format: https://review.docs.microsoft.com/help/onboard/admin/samples/concepts/readme-template?branch=master
+| [Documentation](https://github.com/OfficeDev/microsoft-teams-apps-associateinsights/wiki/Solution-overview.md) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-associateinsights/wiki/Deployement-guide.md) | [Architecture](https://github.com/OfficeDev/microsoft-teams-apps-associateinsights/wiki/Workflow.md) |
+| ---- | ---- | ---- |
 
-Guidance on onboarding samples to docs.microsoft.com/samples: https://review.docs.microsoft.com/help/onboard/admin/samples/process/onboarding?branch=master
+Associate Insights is a Power App template designed to capture customer feedback and sentiment through First Line Workers in retail stores through the one on one direct connection with the customers. The feedback submitted through the app can then be used by business teams to derive deep product and operational insights that can be used to improve the product and customer experience.
 
-Taxonomies for products and languages: https://review.docs.microsoft.com/new-hope/information-architecture/metadata/taxonomies?branch=master
--->
+The potential app use cases are:
 
-Give a short description for your sample here. What does it do and why is it important?
+ - Empowering the First Line Workers to provide feedback.
+ - Utilizing the direct connection between the First Line Workers and the customers to learn about the customer feedback and sentiment.
 
-## Contents
+Currently Associate Insights app has a single page experience with fields and field headers which can be completely customized as per business need.
 
-Outline the file contents of the repository. It helps users navigate the codebase, build configuration and any related assets.
+**Share Product Feedback:**  
+  
+![associateinsightsapp_homescreen.png](https://github.com/OfficeDev/microsoft-teams-apps-associateinsights/wiki/Images/associateinsightsapp_homescreen.png)
 
-| File/folder       | Description                                |
-|-------------------|--------------------------------------------|
-| `src`             | Sample source code.                        |
-| `.gitignore`      | Define what to ignore at commit time.      |
-| `CHANGELOG.md`    | List of changes to the sample.             |
-| `CONTRIBUTING.md` | Guidelines for contributing to the sample. |
-| `README.md`       | This README file.                          |
-| `LICENSE`         | The license for the sample.                |
+## Getting Started
+Begin with the [Solution overview](https://github.com/OfficeDev/microsoft-teams-apps-associateinsights/wiki/Solution-overview.md) to read about what the app does and how it works.
 
-## Prerequisites
+When you're ready to try out Associate Insights Power App, follow the steps in the [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-associateinsights/wiki/Deployment-guide.md).
 
-Outline the required components and tools that a user might need to have on their machine in order to run the sample. This can be anything from frameworks, SDKs, OS versions or IDE releases.
+## Feedback
 
-## Setup
+Thoughts? Questions? Ideas? Share them with us on [Teams UserVoice](https://microsoftteams.uservoice.com/forums/555103-public)!
 
-Explain how to prepare the sample once the user clones or downloads the repository. The section should outline every step necessary to install dependencies and set up any settings (for example, API keys and output folders).
+Please report bugs and other code issues here.
 
-## Running the sample
+## **Legal Notice**
 
-Outline step-by-step instructions to execute the sample and see its output. Include steps for executing the sample from the IDE, starting specific services in the Azure portal or anything related to the overall launch of the code.
+Please read the license terms applicable to this app template [here](https://github.com/OfficeDev/microsoft-teams-apps-associateinsights/blob/master/LICENSE). In addition to these terms, by using this app template you agree to the following:
 
-## Key concepts
-
-Provide users with more context on the tools and services used in the sample. Explain some of the code that is being used and how services interact with each other.
+ - You are responsible for complying with applicable privacy and security regulations related to use, collection and handling of any personal data by your app.  This includes complying with all internal privacy and security policies of your organization if your app is developed to be sideloaded internally within your organization.
+ 
+ - Microsoft will have no access to data collected through your app. Microsoft will not be responsible for any data related incidents or data subject requests.
+ 
+ - Any trademarks or registered trademarks of Microsoft In the United States and/or other countries and logos included in this repository are the property of Microsoft and the license for this project does not grant you rights to use any Microsoft names, logos or trademarks outside of this repository.  Microsoft’s general trademark guidelines can be found at https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general.aspx
+ 
+ - Use of this template does not guarantee acceptance of your app to the Teams app store. To make this app available in the Teams app store, you will have to comply with [submission process and validation](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/deploy-and-publish/appsource/publish), and all associated requirements such as including your own privacy statement and terms of use for your app.
 
 ## Contributing
 
