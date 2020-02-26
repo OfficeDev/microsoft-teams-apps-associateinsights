@@ -8,7 +8,7 @@ urlFragment: microsoft-teams-apps-associateinsights
 
 **Associate Insights App Template**
 
-| [Documentation](https://github.com/OfficeDev/microsoft-teams-apps-associateinsights/wiki/Solution-overview.md) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-associateinsights/wiki/Deployement-guide.md) | [Architecture](https://github.com/OfficeDev/microsoft-teams-apps-associateinsights/wiki/Workflow.md) |
+| [Documentation](https://github.com/OfficeDev/microsoft-teams-apps-associateinsights/wiki/Home) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-associateinsights/wiki/Deployment-guide) | [Architecture](https://github.com/OfficeDev/microsoft-teams-apps-associateinsights/wiki/Solution-overview) |
 | ---- | ---- | ---- |
 
 Associate Insights is a Power App template designed to capture customer feedback and sentiment through First Line Workers in retail stores through the one on one direct connection with the customers. The feedback submitted through the app can then be used by business teams to derive deep product and operational insights that can be used to improve the product and customer experience.
@@ -25,9 +25,9 @@ Currently Associate Insights app has a single page experience with fields and fi
 ![associateinsightsapp_homescreen.png](https://github.com/OfficeDev/microsoft-teams-apps-associateinsights/wiki/Images/associateinsightsapp_homescreen.png)
 
 ## Getting Started
-Begin with the [Solution overview](https://github.com/OfficeDev/microsoft-teams-apps-associateinsights/wiki/Solution-overview.md) to read about what the app does and how it works.
+Begin with the [Solution overview](https://github.com/OfficeDev/microsoft-teams-apps-associateinsights/wiki/Solution-overview) to read about what the app does and how it works.
 
-When you're ready to try out Associate Insights Power App, follow the steps in the [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-associateinsights/wiki/Deployment-guide.md).
+When you're ready to try out Associate Insights Power App, follow the steps in the [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-associateinsights/wiki/Deployment-guide).
 
 ## Feedback
 
@@ -43,7 +43,7 @@ Please read the license terms applicable to this app template [here](https://git
  
  - Microsoft will have no access to data collected through your app. Microsoft will not be responsible for any data related incidents or data subject requests.
  
- - Any trademarks or registered trademarks of Microsoft In the United States and/or other countries and logos included in this repository are the property of Microsoft and the license for this project does not grant you rights to use any Microsoft names, logos or trademarks outside of this repository.  Microsoft’s general trademark guidelines can be found at https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general.aspx
+ - Any trademarks or registered trademarks of Microsoft In the United States and/or other countries and logos included in this repository are the property of Microsoft and the license for this project does not grant you rights to use any Microsoft names, logos or trademarks outside of this repository. Microsoft’s general trademark guidelines can be found at https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general.aspx
  
  - Use of this template does not guarantee acceptance of your app to the Teams app store. To make this app available in the Teams app store, you will have to comply with [submission process and validation](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/deploy-and-publish/appsource/publish), and all associated requirements such as including your own privacy statement and terms of use for your app.
 
