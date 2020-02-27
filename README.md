@@ -22,11 +22,11 @@ Currently Associate Insights app has a single page experience with fields and fi
 
 Sales personnel interacting with Associate Insights app to record feedback:
 
-![Home screen for sales personnel](https://github.com/OfficeDev/microsoft-teams-apps-associateinsights/wiki/Images/Associate Insights_RetailTeam.png)
+![Home screen for sales personnel](https://github.com/OfficeDev/microsoft-teams-apps-associateinsights/wiki/Images/AssociateInsights_RetailTeam.png)
 
 Business Strategy Team analyzing insights generated from the app:
 
-![PowerBI dashboard for Insights strategy team](https://github.com/OfficeDev/microsoft-teams-apps-associateinsights/wiki/Images/Associate Insights_v4_StrategyTeam.png)
+![PowerBI dashboard for Insights strategy team](https://github.com/OfficeDev/microsoft-teams-apps-associateinsights/wiki/Images/AssociateInsights_v4_StrategyTeam.png)
 
 ## Getting Started
 Begin with the [Solution overview](https://github.com/OfficeDev/microsoft-teams-apps-associateinsights/wiki/Solution-overview) to read about what the app does and how it works.
