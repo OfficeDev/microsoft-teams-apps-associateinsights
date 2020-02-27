@@ -11,7 +11,7 @@ urlFragment: microsoft-teams-apps-associateinsights
 | [Documentation](https://github.com/OfficeDev/microsoft-teams-apps-associateinsights/wiki/Home) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-associateinsights/wiki/Deployment-guide) | [Architecture](https://github.com/OfficeDev/microsoft-teams-apps-associateinsights/wiki/Solution-overview) |
 | ---- | ---- | ---- |
 
-Associate Insights is a Power App template designed to capture customer feedback and sentiment through First Line Workers in retail stores through the one on one direct connection with the customers. The feedback submitted through the app can then be used by business teams to derive deep product and operational insights that can be used to improve the product and customer experience.
+Associate Insights is a Teams Power App template designed to capture customer feedback and sentiment through First Line Workers in retail stores through the one on one direct connection with the customers. The feedback submitted through the app can then be used by business teams collaboratively within a Team using a PowerBI Teams tab to derive deep product and operational insights that can be used to improve the product and customer experience.
 
 The potential app use cases are:
 
@@ -20,9 +20,13 @@ The potential app use cases are:
 
 Currently Associate Insights app has a single page experience with fields and field headers which can be completely customized as per business need.
 
-**Share Product Feedback:**  
-  
-![associateinsightsapp_homescreen.png](https://github.com/OfficeDev/microsoft-teams-apps-associateinsights/wiki/Images/associateinsightsapp_homescreen.png)
+Sales personnel interacting with Associate Insights app to record feedback:
+
+[[/Images/Associate Insights_RetailTeam.png|Home screen]]
+
+Business Strategy Team analyzing insights generated from the app:
+
+[[/Images/Associate Insights_v4_StrategyTeam.png|Home screen with enabled button]]
 
 ## Getting Started
 Begin with the [Solution overview](https://github.com/OfficeDev/microsoft-teams-apps-associateinsights/wiki/Solution-overview) to read about what the app does and how it works.
